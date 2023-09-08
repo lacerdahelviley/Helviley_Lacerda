@@ -1,14 +1,12 @@
-# Fullstack Web Developer | Frontend Specialist
+# Hello there! 👋
 
-![Profile Picture](profile-picture.png)
+## I'm Helviley, a passionate Fullstack Web Developer with a strong emphasis on frontend development. 
 
-## Introduction
+Currently, I'm pursuing my degree in Analysis and Systems Development (ADS), and I'm deeply committed to building elegant, user-friendly web applications.
 
-Hello there! I'm Helviley, a passionate Fullstack Web Developer with a strong emphasis on frontend development. Currently, I'm pursuing my degree in Analysis and Systems Development (ADS), and I'm deeply committed to building elegant, user-friendly web applications.
+## Skills 
 
-## Skills
-
-### Frontend Technologies
+### Frontend Technologies 
 
 - React
 - Vue.js
