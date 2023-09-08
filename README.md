@@ -36,7 +36,7 @@ Currently, I'm pursuing my degree in Analysis and Systems Development (ADS), and
 
 ## Education
 
-- Currently pursuing a Bachelor's degree in Analysis and Systems Development (ADS) at [Your University Name](https://www.university-name.edu)
+- Currently pursuing a Bachelor's degree in Analysis and Systems Development (ADS) at [Your University Name]([https://www.university-name.edu](https://descomplica.com.br/faculdade/))
 - Expected Graduation Date: Month, Year
 
 ## Contact
